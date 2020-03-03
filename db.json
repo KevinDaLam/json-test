@@ -1,0 +1,7 @@
+{
+    "0": {score: 80, session_timestamp: "Jan-02-2020-00-04-50-628169", stutter_segments: "2-6"},
+    "1": {score: 70, session_timestamp: "Feb-02-2020-00-04-50-628169", stutter_segments: "1-3-4"},
+    "2": {score: 90, session_timestamp: "Feb-18-2020-00-04-50-628169", stutter_segments: "7"},
+    "3": {score: 85, session_timestamp: "Feb-19-2020-00-04-50-628169", stutter_segments: "1-4"},
+    "4": {score: 50, session_timestamp: "Feb-25-2020-00-04-50-628169", stutter_segments: "0-1-2"}
+}
